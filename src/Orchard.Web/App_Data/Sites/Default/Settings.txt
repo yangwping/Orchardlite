@@ -1,0 +1,13 @@
+State: Running
+Themes: 
+Modules: 
+Name: Default
+DataProvider: MySql
+DataConnectionString: Data Source=127.0.0.1;Database=Orchard2;User Id=root;Password=123456
+DataTablePrefix: tt
+RequestUrlHost: null
+RequestUrlPrefix: null
+EncryptionAlgorithm: AES
+EncryptionKey: D2C1F14B9C21FA8DA846E6018AF7CCB49C82D84C7DBDD24EC7FB2DF533BE136E
+HashAlgorithm: HMACSHA256
+HashKey: BC51FA567F19BC366F0C41D504F06E2FC94097B165AD0A96E566BDA71A6A3678B5C6586B257B30CDEC7E2244005DCE4A02D0E85A253F30211EC4B2D19987076E
