@@ -9,12 +9,6 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # bin and obj file
-BIN/*
-OBJ/*
-
-
-App_Data/Dependencies/*
-App_Data/cache.dat
 
 # Windows Installer files
 *.cab
@@ -25,7 +19,21 @@ App_Data/cache.dat
 # log file
 *.log
 
+bin/*
+obj/*
 src/packages/*
+src/*/bin/*
+src/*/bin/Debug/*
+*.dll
+*.pdb
+*.xml
+*.cache
+*.exe
+*.txt
+src/*/obj/*
+src/*/obj/Debug/*
+src/*/obj/Debug/*.cs
+src/*/App_Data/Dependencies/*
 
 # =========================
 # Operating System Files
