@@ -13,6 +13,9 @@ BIN/*
 OBJ/*
 
 
+App_Data/Dependencies/*
+App_Data/cache.dat
+
 # Windows Installer files
 *.cab
 *.msi
