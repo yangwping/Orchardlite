@@ -10,30 +10,23 @@ $RECYCLE.BIN/
 
 # bin and obj file
 
+
 # Windows Installer files
 *.cab
 *.msi
 *.msm
 *.msp
+.gitignore
 
 # log file
 *.log
 
-bin/*
-obj/*
+bin/**
+obj/**
 src/packages/*
-src/*/bin/*
-src/*/bin/Debug/*
-*.dll
-*.pdb
-*.xml
-*.cache
-*.exe
-*.txt
-src/*/obj/*
-src/*/obj/Debug/*
-src/*/obj/Debug/*.cs
-src/*/App_Data/Dependencies/*
+src/**/bin/**
+src/**/obj/**
+src/**/App_Data/Dependencies/*
 
 # =========================
 # Operating System Files
