@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies>
+  <Dependency>
+    <ExtensionId>hello</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/hello/bin/hello.dll</VirtualPath>
+    <Hash>48e25199d9b09e66</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>Orchard.CodeGeneration</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Orchard.CodeGeneration/bin/Orchard.CodeGeneration.dll</VirtualPath>
+    <Hash>491871ceb29eaa85</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>Orchard.Modules</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Orchard.Modules/bin/Orchard.Modules.dll</VirtualPath>
+    <Hash>490201b98de781e2</Hash>
+  </Dependency>
+  <Dependency>
+    <ExtensionId>Orchard.Themes</ExtensionId>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Orchard.Themes/bin/Orchard.Themes.dll</VirtualPath>
+    <Hash>48fe69b5f5544c4e</Hash>
+  </Dependency>
+</Dependencies>
