@@ -20,6 +20,7 @@ $RECYCLE.BIN/
 
 # log file
 *.log
+*.suo
 
 bin/**
 obj/**
