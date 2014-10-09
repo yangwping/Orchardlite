@@ -25,7 +25,7 @@ bin/**
 obj/**
 src/packages/*
 src/**/bin/**
-
+src/**/obj/**
 src/**/App_Data/Dependencies/*
 
 # =========================
